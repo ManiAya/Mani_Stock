@@ -302,7 +302,19 @@ table {
   margin-right: 10%;
 }
 
+table a{
+  text-decoration: none;
+}
 
+table a:visited{
+  
+  color: #000000;
+}
+
+table a:hover{
+  
+  color: #e34140;
+}
 
 
 /* div.forget p{
